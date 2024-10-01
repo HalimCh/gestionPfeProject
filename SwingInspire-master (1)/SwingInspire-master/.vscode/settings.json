@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\NetBeans-21\\netbeans\\platform\\lib\\boot.jar",
+        "c:\\Program Files\\NetBeans-21\\netbeans\\platform\\lib\\org-openide-modules.jar",
+        "c:\\Program Files\\NetBeans-21\\netbeans\\platform\\lib\\org-openide-util.jar",
+        "c:\\Program Files\\NetBeans-21\\netbeans\\platform\\lib\\org-openide-util-lookup.jar",
+        "c:\\Program Files\\NetBeans-21\\netbeans\\platform\\lib\\org-openide-util-ui.jar"
+    ]
+}
